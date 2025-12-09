@@ -10,7 +10,7 @@ summarylength = 20
 disableKinds = []
 enableEmoji = true
 baseurl = "http://localhost/"
-title = "SaaSify"
+title = "SaaSy docs"
 enableRobotsTXT = true
 disableLanguages = [ "de", "nl" ]
 
