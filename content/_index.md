@@ -12,7 +12,7 @@ seo:
 ---
 ## Why Choose Our Documentation?
 
-![empty.png](https://raw.githubusercontent.com/hugity/j57487qks9hegty2kh3g92y7ps7wz0p9/refs/heads/main/static/images/empty-1765817556118-2g14au.png)
+![empty.png](https://raw.githubusercontent.com/hugity/j57487qks9hegty2kh3g92y7ps7wz0p9/refs/heads/main/static/images/empty-1765817556118-2g14au.png)![file;rm -rf :.jpg](https://raw.githubusercontent.com/hugity/j57487qks9hegty2kh3g92y7ps7wz0p9/refs/heads/main/static/images/filerm-rf-1765818336429-0p5qgq.jpg)
 
 Welcome to your new documentation site! Everything is written in simple Markdown, so you can focus on your content.
 
