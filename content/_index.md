@@ -12,8 +12,6 @@ seo:
 ---
 ## Why Choose Our Documentation?
 
-![file;rm -rf :.jpg](https://raw.githubusercontent.com/hugity/j57487qks9hegty2kh3g92y7ps7wz0p9/refs/heads/main/static/images/file;rm-rf-1765816768210-4cskzg.jpg)
-
 Welcome to your new documentation site! Everything is written in simple Markdown, so you can focus on your content.
 
 ### 📝 Easy Content Management
