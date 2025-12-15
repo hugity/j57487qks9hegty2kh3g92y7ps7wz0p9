@@ -14,8 +14,6 @@ seo:
 
 Welcome to your new documentation site! Everything is written in simple Markdown, so you can focus on your content.
 
-![malicious.jpg\x00.png](https://raw.githubusercontent.com/hugity/j57487qks9hegty2kh3g92y7ps7wz0p9/refs/heads/main/static/images/malicious.jpg\x00-1765811646224-lb3wal.png)
-
 ### 📝 Easy Content Management
 
 Write your documentation in Markdown format. It's simple, fast, and familiar. No complex syntax to learn.
