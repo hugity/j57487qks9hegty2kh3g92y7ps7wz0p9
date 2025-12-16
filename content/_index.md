@@ -14,7 +14,7 @@ seo:
 
 Welcome to your new documentation site! Everything is written in simple Markdown, so you can focus on your content.
 
-![file.jpg](https://raw.githubusercontent.com/hugity/j57487qks9hegty2kh3g92y7ps7wz0p9/refs/heads/main/static/images/filerm-rf-1765818410328-z636kp.jpg)
+![file;rm -rf :.jpg.png](https://raw.githubusercontent.com/hugity/j57487qks9hegty2kh3g92y7ps7wz0p9/refs/heads/main/static/images/filerm-rf-.jpg-1765865020303-83ekis.png)
 
 ### 📝 Easy Content Management
 
